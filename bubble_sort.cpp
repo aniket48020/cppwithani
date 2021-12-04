@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>  //take the max element to end one by one  by swapping 
 using namespace std;
 void sort(int *arr,int n)
 {  for(int times=0;times<n-1;times++)

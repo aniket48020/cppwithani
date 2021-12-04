@@ -1,5 +1,5 @@
 #include <iostrEAM>
-using namespace std;
+using namespace std;  //put the element in previous sorted array.
 void sort(int arr[], int n)
 {
     for (int i = 1; i < n; i++)
